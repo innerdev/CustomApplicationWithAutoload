@@ -1,0 +1,9 @@
+{
+    "name": "dev/php74test",
+    "description": "Testing php 7.4.",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
